@@ -156,20 +156,6 @@ The pipeline automatically evaluates four baselines alongside the neural network
 
 All random seeds (Python, NumPy, PyTorch) are fixed via the `random_seed` parameter (default: 42). Feature scaling is performed within each cross-validation fold to prevent data leakage. When a prediction set is provided, overlapping text entries are removed from the training data before any model fitting.
 
-## Citation
-
-If you use this code in your research, please cite the accompanying manuscript:
-
-```
-@article{<citation-key>,
-  title   = {<Manuscript Title>},
-  author  = {<Authors>},
-  journal = {Journal of Industrial Ecology},
-  year    = {<Year>},
-  doi     = {<DOI>}
-}
-```
-
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
