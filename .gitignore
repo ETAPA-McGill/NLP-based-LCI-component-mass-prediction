@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Generated outputs
+figures/
+tables/
+
+# Loose CSVs (the released dataset in data/ is tracked)
+*.csv
+!data/*.csv
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store

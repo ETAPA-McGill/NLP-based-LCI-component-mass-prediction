@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "LCI zero feature engineering: predicting electronic component mass from BoM text descriptions"
+type: software
+authors:
+  - family-names: McClay
+    given-names: Patrick
+    affiliation: McGill University
+repository-code: "https://github.com/ETAPA-McGill/LCI_zero_feature_engineering"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Filling Life Cycle Inventory Gaps: Predicting Electronic Component Mass from BoM Text Descriptions Without Manual Feature Engineering"
+  authors:
+    - family-names: McClay
+      given-names: Patrick
+  journal: "Journal of Industrial Ecology"
+  year: 2026
+  notes: "In review. Update volume, pages, DOI, and full author list upon publication."
