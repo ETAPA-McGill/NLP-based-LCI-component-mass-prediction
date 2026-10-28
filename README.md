@@ -1,7 +1,8 @@
 # Predicting Component Mass from BoM Text Descriptions — Without Manual Feature Engineering
 
-Code for the paper *"Filling Life Cycle Inventory Gaps: Predicting Electronic
-Component Mass from BoM Text Descriptions Without Manual Feature Engineering"*
+Code for the paper *"Predicting electronic component mass for life cycle assessment using 
+natural language processing: closing life cycle inventory data gaps 
+without manual feature engineering"*
 (McClay et al., in review).
 
 The model predicts the unit mass of an electronic component directly from its
