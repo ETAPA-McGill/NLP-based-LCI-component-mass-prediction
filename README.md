@@ -1,4 +1,6 @@
-# Predicting Component Mass from BoM Text Descriptions — Without Manual Feature Engineering
+# Predicting electronic component mass for life cycle assessment using 
+natural language processing: closing life cycle inventory data gaps 
+without manual feature engineering
 
 Code for the paper *"Predicting electronic component mass for life cycle assessment using 
 natural language processing: closing life cycle inventory data gaps 
